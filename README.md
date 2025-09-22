@@ -29,12 +29,11 @@
 
 ---
 
-## ℹ️ Remarques
-
-* Cette méthode contourne uniquement l’étape OOBE (Out-Of-Box Experience).
-* Pensez à **sauvegarder vos fichiers** avant l’installation.
-* Après installation, vous pouvez reconnecter Internet et lier un compte Microsoft si besoin.
-* N’oubliez pas d’installer les pilotes et mises à jour Windows Update.
+> [!important]
+> * Cette méthode contourne uniquement l’étape OOBE (Out-Of-Box Experience).
+> * Pensez à **sauvegarder vos fichiers** avant l’installation.
+> * Après installation, vous pouvez reconnecter Internet et lier un compte Microsoft si besoin.
+> * N’oubliez pas d’installer les pilotes et mises à jour Windows Update.
 
 ---
 
