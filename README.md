@@ -12,6 +12,14 @@
 
 ---
 
+> [!important]
+> * Cette méthode contourne uniquement l’étape OOBE (Out-Of-Box Experience).
+> * Pensez à **sauvegarder vos fichiers** avant l’installation.
+> * Après installation, vous pouvez reconnecter Internet et lier un compte Microsoft si besoin.
+> * N’oubliez pas d’installer les pilotes et mises à jour Windows Update.
+
+---
+
 ## 🛠️ Étapes détaillées
 
 1. **Déconnectez** tout accès réseau (Ethernet + Wi‑Fi).
@@ -26,14 +34,6 @@
 6. Le PC redémarre automatiquement.
 7. Après le redémarrage, refaire l’installation depuis le début jusqu’à l’écran Réseaux, puis cliqué sur **« Je n’ai pas internet »**.
 8. L’installation continue normalement **sans compte Microsoft**.
-
----
-
-> [!important]
-> * Cette méthode contourne uniquement l’étape OOBE (Out-Of-Box Experience).
-> * Pensez à **sauvegarder vos fichiers** avant l’installation.
-> * Après installation, vous pouvez reconnecter Internet et lier un compte Microsoft si besoin.
-> * N’oubliez pas d’installer les pilotes et mises à jour Windows Update.
 
 ---
 
