@@ -27,7 +27,7 @@ OOBE\BYPASSNRO
 * Après l’installation, vous pouvez reconnecter le réseau et, si nécessaire, créer ou lier un compte Microsoft ultérieurement.
 * Pensez à installer les pilotes et les mises à jour Windows Update.
 
-> [!caution]
+## Avertissements
 
 * N’utilisez pas cette méthode pour contourner des restrictions d’entreprise ou des politiques informatiques gérées par un administrateur.
 * Les conditions d’utilisation de Microsoft s’appliquent toujours. Cette procédure n’enlève pas les obligations légales ou contractuelles.
