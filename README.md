@@ -8,7 +8,7 @@
 
 * Un PC **compatible Windows 11**
 * Une clé **USB bootable** ou **ISO Windows 11**
-* **Réseau débranché**(Ethernet et Wi‑Fi **désactivés**)
+* **Réseau débranché** (Ethernet et Wi‑Fi **désactivés**)
 
 ---
 
