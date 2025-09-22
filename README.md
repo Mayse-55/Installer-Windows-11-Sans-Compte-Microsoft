@@ -24,8 +24,8 @@
    OOBE\BYPASSNRO
    ```
 6. Le PC redémarre automatiquement.
-7. Reprenez l’installation → à l’écran Réseaux, cliquez **Je n’ai pas Internet**.
-8. Continuez l’installation : un **compte local** sera proposé.
+7. Après le redémarrage, refaire l’installation depuis le début jusqu’à l’écran Réseaux, puis clique sur **« Je n’ai pas internet »**.
+8. L’installation continue normalement **sans compte Microsoft**.
 
 ---
 
