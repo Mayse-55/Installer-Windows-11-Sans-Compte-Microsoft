@@ -16,7 +16,7 @@
 
 1. **Déconnectez** tout accès réseau (Ethernet + Wi‑Fi).
 2. Lancez l’installation de Windows 11.
-3. Avancez jusqu’à l’écran **Réseaux / Connectez-vous à Internet**.
+3. Avancez jusqu’à l’écran **Réseaux**.
 4. Appuyez sur **Shift + F10** → ouvre l’invite de commandes (CMD).
 5. Dans CMD, tapez :
 
