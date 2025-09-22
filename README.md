@@ -4,7 +4,7 @@
 
 ---
 
-✅ Prérequis
+## ✅ Prérequis
 
 * Un PC **compatible Windows 11**
 * Une clé **USB bootable** ou **ISO Windows 11**
