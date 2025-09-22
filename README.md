@@ -1,6 +1,6 @@
 # 🚀 Installer Windows 11 sans compte Microsoft
 
-> **Objectif :** Installer Windows 11 sans être obligé de créer ou utiliser un compte Microsoft.
+**Objectif :** Installer Windows 11 sans être obligé de créer ou utiliser un compte Microsoft.
 
 ---
 
