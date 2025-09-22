@@ -38,8 +38,7 @@
 
 ---
 
-## ⚠️ Avertissements
-
-* ❌ Ne pas utiliser pour contourner des restrictions professionnelles.
-* 📜 Les **conditions d’utilisation Microsoft** s’appliquent toujours.
-* 🔒 Méthode donnée à titre informatif, susceptible de changer si Microsoft met à jour son processus.
+> [!caution]
+> ❌ Ne pas utiliser pour contourner des restrictions professionnelles.
+> 📜 Les **conditions d’utilisation Microsoft** s’appliquent toujours.
+> 🔒 Méthode donnée à titre informatif, susceptible de changer si Microsoft met à jour son processus.
