@@ -1,6 +1,3 @@
-
-**BUT** : procédure permettant d’installer Windows 11 sans créer ou se connecter à un compte Microsoft (méthode OOBE). À utiliser à vos risques — sauvegardez toujours vos données et respectez les conditions d'utilisation de Microsoft.
-
 ## Prérequis
 
 * Un PC compatible Windows 11.
